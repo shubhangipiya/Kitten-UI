@@ -55,19 +55,6 @@ Easy way to integrate UI Kitten with backend ([Java][link:ui-kitten-bundle-java]
 
 [<img src="https://i.imgur.com/HVNZQGR.jpg">][link:ui-kitten-bundles]
 
-## How can I support the developers?
-- Star our GitHub repo :star:
-- Create pull requests, submit bugs, suggest new features or documentation updates :wrench:
-- Read us on [Medium][link:akveo-medium]
-- Follow us on [Twitter][link:akveo-twitter]
-- Like our page on [Facebook][link:akveo-facebook]
-
-## License
-[MIT](LICENSE.txt) license.
-
-## More from Akveo
-- [Eva Icons][link:eva-icons] - 480+ beautiful Open Source icons
-
 
 
 [badge:license]: https://img.shields.io/npm/l/react-native-ui-kitten.svg
